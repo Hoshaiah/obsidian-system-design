@@ -1,0 +1,26 @@
+{
+  "obsidian-spaced-repetition:srs-card-review-show-answer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-card-review-skip": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-card-review-again": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}

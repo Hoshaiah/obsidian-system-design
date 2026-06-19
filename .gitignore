@@ -1,0 +1,13 @@
+# Obsidian local state
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# macOS
+.DS_Store
